@@ -1,4 +1,6 @@
-#
+# 
+
+#### To run the program:
 
 Run the program "HeuristicasSequenciamento.exe" to open the interface
 (may take a few seconds and open in the background);
@@ -8,10 +10,10 @@ or
 Open source code in python and run with
 "python3 HeuristicsSequenciamento.py" in the terminal;
 
+#
 
 
-
-### COMMENTS:
+#### COMMENTS:
 
 - The data sheet must be in the same folder as the program;
 
