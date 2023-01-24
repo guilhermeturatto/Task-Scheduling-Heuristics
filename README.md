@@ -14,7 +14,7 @@ This approach can be used in various areas, such as Project Management, Producti
 * <code>w<sub>j</sub></code> Task j's penalty for delay
 
 <p align="center">
-<img src="https://imgur.com/1wbrJo8.png" alt="drawing" width="650"/>
+<img src="https://imgur.com/1wbrJo8.png" alt="drawing" width="700"/>
 </p>
 
 The solution consists of determining the execution sequence that generates the lowest possible penalty, considering that all tasks will be executed sequentially without parallelism. These problems are classified as NP-hard, therefore, ILP (Integer Linear Programming) models only apply to problems with few tasks. For larger dimension problems, heuristic methods are often used.
@@ -79,7 +79,7 @@ or
 
 Expected result:
 <p align="center">
-<img src="https://imgur.com/PNatZrA.png" alt="drawing" width="900"/>
+<img src="https://imgur.com/PNatZrA.png" alt="drawing" width="1000"/>
 </p>
 
 ## Support
